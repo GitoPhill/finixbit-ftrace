@@ -1,4 +1,4 @@
 [submodule "source/elf-parser"]
 	path = source/elf-parser
-	url = git://github.com:GitoPhill/finixbit-elf-parser.git
+	url = https://github.com/GitoPhill/finixbit-elf-parser.git
 	branch = master
